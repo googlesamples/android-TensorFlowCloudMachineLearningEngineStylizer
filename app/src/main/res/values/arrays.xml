@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright 2018 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <integer-array name="styleThumbnails">
+        <item>@drawable/style0</item>
+        <item>@drawable/style1</item>
+        <item>@drawable/style2</item>
+        <item>@drawable/style3</item>
+        <item>@drawable/style4</item>
+        <item>@drawable/style5</item>
+        <item>@drawable/style6</item>
+        <item>@drawable/style7</item>
+        <item>@drawable/style8</item>
+        <item>@drawable/style9</item>
+        <item>@drawable/style10</item>
+        <item>@drawable/style11</item>
+        <item>@drawable/style12</item>
+        <item>@drawable/style13</item>
+        <item>@drawable/style14</item>
+        <item>@drawable/style15</item>
+        <item>@drawable/style16</item>
+        <item>@drawable/style17</item>
+        <item>@drawable/style18</item>
+        <item>@drawable/style19</item>
+        <item>@drawable/style20</item>
+        <item>@drawable/style21</item>
+        <item>@drawable/style22</item>
+        <item>@drawable/style23</item>
+        <item>@drawable/style24</item>
+        <item>@drawable/style25</item>
+    </integer-array>
+</resources>
